@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Exclusion du fichier js
 /DossierJs
+=======
+# exclure html
+*.html
+>>>>>>> e0bc0c488cf82fec1deb0277863b6734c04be41e
